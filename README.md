@@ -25,4 +25,4 @@ Este proyecto permite realizar conversiones entre caracteres y su representació
 - `feature/byte-to-char`: Implementación de la funcionalidad de conversión de bytes a caracteres ASCII.
 
 ## Integrantes del Grupo
-- Maria jose ledezma(GitHubUser1)
+- Maria jose ledezma
